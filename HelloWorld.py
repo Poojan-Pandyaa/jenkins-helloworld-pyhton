@@ -1,2 +1,2 @@
-echo "print('Hello World from Jenkins')" > hello.py
+echo "print('Hello World from the Jenkins')" > hello.py
 python3 hello.py
